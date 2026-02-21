@@ -9,6 +9,20 @@ chmod +x install.sh scripts/fix-better-sqlite3.sh desktop/codex-desktop uninstal
 
 and boom you have codex
 
+
+
+
+
+issues with manjaro:
+ check electron version
+issues with anything esle:
+ sudo pacman -Syu
+ 
+
+
+
+
+
 credits: 
 https://aur.archlinux.org/packages/codex-app-bin
 cloudwithax
