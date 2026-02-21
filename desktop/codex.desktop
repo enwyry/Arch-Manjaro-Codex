@@ -1,0 +1,9 @@
+#!/usr/bin/env xdg-open
+[Desktop Entry]
+Name=Codex
+Comment=Codex Desktop
+Exec=%h/.local/bin/codex-desktop
+Terminal=false
+Type=Application
+Categories=Development;
+StartupNotify=true

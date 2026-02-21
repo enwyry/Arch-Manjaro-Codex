@@ -1,0 +1,10 @@
+## install on arch or manjaro (not tested on manjaro)
+
+Download the repo then extract then :
+ 
+ 
+```sh
+chmod +x install.sh scripts/fix-better-sqlite3.sh desktop/codex-desktop uninstall.sh
+./install.sh
+
+and boom you have codex
