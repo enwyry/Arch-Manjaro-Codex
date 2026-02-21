@@ -8,3 +8,8 @@ chmod +x install.sh scripts/fix-better-sqlite3.sh desktop/codex-desktop uninstal
 ./install.sh
 
 and boom you have codex
+
+credits: 
+https://aur.archlinux.org/packages/codex-app-bin
+cloudwithax
+ttv20
